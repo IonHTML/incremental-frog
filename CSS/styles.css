@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+#frogs {
+    text-align: center;
+    padding: 10;
+    font-family: Monospace;
+    color: white;
+}
+
+button {
+    border-color: white;
+    padding: 20;
+    font-family: monospace;
+    margin: 10;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: grey;
+}
+
+#fps-counter {
+    text-align: center;
+    padding: 10;
+    font-family: Monospace;
+    color: white;
+}
+
+#save-container {
+    padding: 10;
+    font-family: monospace;
+    margin: 10;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 0px;
+}
+
+#btn-container {
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-align: end;
+    position: absolute;
+
+    top: 8px;
+
+    right: 16px;
+
+    font-size: 18px;
+}
+
+#about {
+    color: white;
+    text-align: end;
+    position: absolute;
+
+    top: 8px;
+
+    right: 120px;
+
+    font-size: 18px;
+}

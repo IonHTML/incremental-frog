@@ -1,7 +1,4 @@
-# incremental-frog
+# frogmental
 
-## A very bare bones incremental game inspired by Antimatter Dimensions
-
-## Issues
-The tickspeed upgrade doesnt seem to work.
-Saving can be a little finnecky
+please dont judge, this is my first real incremental game, please hit me up on noobdabs100@gmail.com.
+I want someone to help me balance my game.
